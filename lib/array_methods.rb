@@ -17,9 +17,9 @@ def using_first(array)
 end
 
 def using_last(array)
-  new array = array.last  
+  new_array = array.last  
 end
 
 def using_size(array)
-  new array = array.size 
+  new_array = array.size 
 end
